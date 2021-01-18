@@ -1,0 +1,11 @@
+E:\P315\SOLIDReflection\SOLIDReflection\bin\Debug\netcoreapp3.1\SOLIDReflection.exe
+E:\P315\SOLIDReflection\SOLIDReflection\bin\Debug\netcoreapp3.1\SOLIDReflection.deps.json
+E:\P315\SOLIDReflection\SOLIDReflection\bin\Debug\netcoreapp3.1\SOLIDReflection.runtimeconfig.json
+E:\P315\SOLIDReflection\SOLIDReflection\bin\Debug\netcoreapp3.1\SOLIDReflection.runtimeconfig.dev.json
+E:\P315\SOLIDReflection\SOLIDReflection\bin\Debug\netcoreapp3.1\SOLIDReflection.dll
+E:\P315\SOLIDReflection\SOLIDReflection\bin\Debug\netcoreapp3.1\SOLIDReflection.pdb
+E:\P315\SOLIDReflection\SOLIDReflection\obj\Debug\netcoreapp3.1\SOLIDReflection.csprojAssemblyReference.cache
+E:\P315\SOLIDReflection\SOLIDReflection\obj\Debug\netcoreapp3.1\SOLIDReflection.AssemblyInfoInputs.cache
+E:\P315\SOLIDReflection\SOLIDReflection\obj\Debug\netcoreapp3.1\SOLIDReflection.AssemblyInfo.cs
+E:\P315\SOLIDReflection\SOLIDReflection\obj\Debug\netcoreapp3.1\SOLIDReflection.dll
+E:\P315\SOLIDReflection\SOLIDReflection\obj\Debug\netcoreapp3.1\SOLIDReflection.pdb
